@@ -1,0 +1,2 @@
+mongodb:
+    host: mongodb+srv://richmind84:richmind84@cluster0.cqmqo.mongodb.net/dataScience?retryWrites=true&w=majority&connectTimeoutMS=300000&socketTimeoutMS=300000
